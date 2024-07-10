@@ -25,7 +25,9 @@ Choose the "Manual input" option from the sidebar.
 Fill in the customer information in the provided form.
 Click the "Predict" button to receive the prediction.
 The application will display the prediction results, 0 being no default and 1 as default probability.
-Streamlit Video
+
+Streamlit Video:
+
 For a detailed walkthrough of the application, please refer to the following video:
 
 
