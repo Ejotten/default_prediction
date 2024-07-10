@@ -5,8 +5,11 @@ This Streamlit application uses a pre-trained Light Gradient Boosting Machine (L
 The following dependencies are required to run this application:
 
 pandas
+
 streamlit
+
 pycaret
+
 xlsxwriter
 
 # Usage
